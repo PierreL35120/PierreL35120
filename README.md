@@ -1,16 +1,28 @@
-### Hi there 👋
+## Hey. 👋
 
-<!--
-**PierreL35120/PierreL35120** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Permettez moi de me présenter assez rapidement. </p>
+Mais comme j'aime les liste, je vais faire en liste.
 
-Here are some ideas to get you started:
+**Prénom :** Pierre </p>
+**Nom :** Lemonnier </p>
+**Date de Naissance :** 08 Juillet 1997 🦀 </p>
+**Nationnalité :** Française 🥐 </p>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Langue en cours de maîtrise :
+- C
+- Python
+- HTML
+- CSS
+
+## Formations :
+*Elles n'ont rien à avoir avec le milieu, mais je mets quand même.*
+- Certification d'aptitude professionnel d'aide à la personne.
+- Peintre en bâtiment.
+- École du numérique.
+
+## Fun fact :
+- J'aime faire des présentation, mais je ne sais pas quoi mettre dedans.
+- Meubler un profile est un hard assez intéressant à faire.
+- Mais je n'aime pas trop ça, il faut que ça reste utile et cohérent en étant agréable visuellement. 
+- Malgré le fait que je ponctue dans toute mes discussion, qu'importe le support et le sujet ne veut dire que je suis antisocial !
