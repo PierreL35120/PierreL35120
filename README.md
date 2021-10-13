@@ -23,6 +23,6 @@ Mais comme j'aime les liste, je vais faire en liste.
 
 ## Fun fact :
 - J'aime faire des présentation, mais je ne sais pas quoi mettre dedans.
-- Meubler un profile est un hard assez intéressant à faire.
+- Meubler un profile est un art assez intéressant à faire.
 - Mais je n'aime pas trop ça, il faut que ça reste utile et cohérent en étant agréable visuellement. 
 - Malgré le fait que je ponctue dans toute mes discussion, qu'importe le support et le sujet ne veut dire que je suis antisocial !
