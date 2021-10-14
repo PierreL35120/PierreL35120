@@ -16,7 +16,7 @@ Mais comme j'aime les liste, je vais faire en liste.
 - CSS
 
 ## Formations :
-*Elles n'ont rien à avoir avec le milieu, mais je mets quand même.*
+*Certaines n'ont rien à avoir avec le milieu, mais je mets quand même.*
 - Certification d'aptitude professionnel d'aide à la personne.
 - Peintre en bâtiment.
 - École du numérique.
